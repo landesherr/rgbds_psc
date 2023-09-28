@@ -1,5 +1,8 @@
-RGBDS
+RGBDS for Pokemon Super Crystal
 =====
+
+**Forked from an older version of RGBDS that works on legacy pokecrystal assembly**
+**When building Pokemon Super Crystal, build the `supercrystal` branch of this project and use the binaries produced to get the correct toolchain**
 
 RGBDS (Rednex Game Boy Development System) is a free assembler/linker package
 for the Game Boy and Game Boy Color. It consists of:
